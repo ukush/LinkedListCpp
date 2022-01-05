@@ -1,0 +1,20 @@
+﻿  LinkedList.cpp
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28,7): error C2988: unrecognizable template declaration/definition
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28,7): error C2143: syntax error: missing ';' before '<'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28,7): error C2059: syntax error: '<'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28,23): error C2065: 'T': undeclared identifier
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28,12): error C2923: 'LinkedList': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(28): message : see declaration of 'T'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(29,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(29,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34,7): error C2988: unrecognizable template declaration/definition
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34,7): error C2143: syntax error: missing ';' before '<'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34,7): error C2059: syntax error: '<'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34,23): error C2065: 'T': undeclared identifier
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34,12): error C2923: 'LinkedList': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(34): message : see declaration of 'T'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(35,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\LinkedList.cpp(35,1): error C2447: '{': missing function header (old-style formal list?)
+  Source.cpp
+  Generating Code...
+C:\Users\Uwais\OneDrive - Sheffield Hallam University\University Projects\Year 2\Semester 1\C++\AdvancedProgramming\Tutorial 10 - Templates\Templates\Templates\Source.cpp(44): error C4700: uninitialized local variable 'doubleList' used
